@@ -1,6 +1,7 @@
 # Flappy Chicken
 
-Bienvenue dans la documentation de **Flappy Chicken**, une réinterprétation simple et amusante du célèbre jeu **Flappy Bird**, développée en Java à l'aide de **Swing**. Ce projet a été réalisé dans un esprit d'apprentissage, avec une inspiration issue de tutoriels en ligne et une aide limitée de GitHub Copilot pour relever le défi de mieux comprendre la logique et les concepts sous-jacents. 🎮🐔
+Bienvenue dans la documentation de **Flappy Chicken**, une réinterprétation simple et amusante du jeu **Flappy Bird**, développée en Java à l'aide de **Swing**. Ce projet a été réalisé dans un esprit d'apprentissage, avec une inspiration issue de tutoriels en ligne et une aide limitée de GitHub Copilot pour relever le défi de mieux comprendre la logique et les concepts sous-jacents.
+Ah, et j'ai choisi une poulet car je les adore, elle sont marrantes. 🎮🐔
 
 ## 🎯 Objectif
 
